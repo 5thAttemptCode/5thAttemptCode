@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Henry
+Talofa ![](https://[user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtiZGZxOTc3Y3k2NDY0dHF1cnR4Zjgya3FzbGozMW0zNXh1eXp6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rNgT8P8pL3dn2/giphy.gif))My name is Henry
+
 =============================================================================================================================
 
 Frontend Developer
@@ -6,9 +7,9 @@ Frontend Developer
 
 I've been learning to code for some times now. I started with Python but switched over to frontend development after a while. When I mastered div-centering I entered the world of 3D by learning Three JS and React. My goal is to become a Fullstack Developer so atm I'm learning to work with backend and databases.
 
-* 🦈  See my portfolio at [www.henry-dev.com](http://henry-dev.com)
-* 🤙🏾  You can contact me at [htlfuerst@gmail.com](mailto:htlfuerst@gmail.com)
-* 🐳  I'm learning MERN and Docker
+* 🦈  Check out my portfolio at [www.henry-dev.com](http://henry-dev.com)
+* 🤙🏾  Send me a mail at [htlfuerst@gmail.com](mailto:htlfuerst@gmail.com)
+* 🐳  Currently I'm learning MERN and Docker
 * 🌴  I'm open to collaborating on any project
 * 🥥  Fun fact: very few years ago, my IT knowledge was limited to how to open and close the browser only.
 
