@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I've been learning to code for about 2 years now. I started with Python but switched over to HTML, CSS and Javascript after a while. After I mastered div-centering I entered the world of 3D by learning Three JS and React. My goal is to become a Fullstack Developer so atm I'm learning to work with backend and databases.
+I've been learning to code for some times now. I started with Python but switched over to frontend development after a while. When I mastered div-centering I entered the world of 3D by learning Three JS and React. My goal is to become a Fullstack Developer so atm I'm learning to work with backend and databases.
 
-* 🖥️  See my portfolio at [www.henry-dev.com](http://henry-dev.com)
-* ✉️  You can contact me at [htlfuerst@gmail.com](mailto:htlfuerst@gmail.com)
-* 🧠  I'm learning MERN/PERN
-* 🤝  I'm open to collaborating on any project
-* ⚡  Fun fact: very few years ago, my IT knowledge was limited to how to open and close the browser only.
+* 🦈  See my portfolio at [www.henry-dev.com](http://henry-dev.com)
+* 🤙🏾  You can contact me at [htlfuerst@gmail.com](mailto:htlfuerst@gmail.com)
+* 🐳  I'm learning MERN and Docker
+* 🌴  I'm open to collaborating on any project
+* 🥥  Fun fact: very few years ago, my IT knowledge was limited to how to open and close the browser only.
 
 ### Skills
 
@@ -20,7 +20,7 @@ I've been learning to code for about 2 years now. I started with Python but swit
 
 ### Socials
 
-<p align="left"> <a href="https://www.codepen.io/FrontEndHenry" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/5thAttemptCode" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/in/henry-fuerst-10b58a187/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.codepen.io/FrontEndHenry" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a>   <a href="https://www.github.com/5thAttemptCode" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>    <a href="https://www.linkedin.com/in/in/henry-fuerst-10b58a187/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -30,5 +30,3 @@ I've been learning to code for about 2 years now. I started with Python but swit
 <a href="http://www.github.com/5thAttemptCode"><img src="https://github-readme-streak-stats.herokuapp.com/?user=5thAttemptCode&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/5thAttemptCode" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5thAttemptCode&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-![](https://komarev.com/ghpvc/?username=5thAttemptCode)
