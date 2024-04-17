@@ -9,9 +9,9 @@ I've been learning to code for some time now. I started with Python but switched
 
 * 🦈  Check out my portfolio at [www.henry-dev.com](http://henry-dev.com)
 * 🤙🏾  Send me a mail at [htlfuerst@gmail.com](mailto:htlfuerst@gmail.com)
-* 🐳  Currently I'm learning MERN and Docker
-* 🌴  I'm open to collaborating on any project
-* 🥥  Fun fact: very few years ago, my IT knowledge was limited to how to open and close the browser only.
+* 🪼​  Currently I'm learning ​🔙​🔚​ and Docker 🐳.
+* 🌌​  Three JS made me understand the importance of performance.
+* 🥥  Fun fact: I'm disturbingly good at toilet paper origami.
 
 ### Skills
 
@@ -22,7 +22,6 @@ I've been learning to code for some time now. I started with Python but switched
 ### Socials
 
 <p align="left"> <a href="https://www.codepen.io/FrontEndHenry" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a>   <a href="https://www.github.com/5thAttemptCode" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>    <a href="https://www.linkedin.com/in/in/henry-fuerst-10b58a187/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
 
 <b>My GitHub Stats</b>
 
