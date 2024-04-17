@@ -8,8 +8,8 @@ Frontend Developer
 I've been learning to code for some time now. I started with Python but switched over to frontend development after a while. When I mastered div-centering I entered the world of 3D by learning Three JS and React. My goal is to become a Fullstack Developer so atm I'm learning to work with backend and databases.
 
 * 🦈  Check out my portfolio at [www.henry-dev.com](http://henry-dev.com)
-* 🤙🏾  Send me a mail at [htlfuerst@gmail.com](mailto:htlfuerst@gmail.com)
-* 🪼​  Currently I'm learning ​🔙​🔚​ and Docker 🐳.
+* 🤙🏾  Contact me at [htlfuerst@gmail.com](mailto:htlfuerst@gmail.com)
+* 🪼​  Currently I'm learning ​Backend​ and Docker 🐳.
 * 🌌​  Three JS made me understand the importance of performance.
 * 🥥  Fun fact: I'm disturbingly good at toilet paper origami.
 
