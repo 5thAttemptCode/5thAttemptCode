@@ -5,12 +5,12 @@
 Frontend Developer
 ------------------
 
-I've been learning to code for some time now. I started with Python but switched over to frontend development after a while. When I mastered div-centering I entered the world of 3D by learning Three JS and React. My goal is to become a Fullstack Developer so atm I'm learning to work with backend and databases.
+My main focus is on frontend development with React, Three.js and HTML/CSS. I enjoy working with Three.js because it provides a unique opportunity to solve problems, enhancing the experience beyond simply creating impressive interfaces. I also enjoy incorporating backend technologies into my projects, such as Node.js, Docker, and Supabase.  
 
-* 🦈  Check out my portfolio at [www.henry-dev.com](http://henry-dev.com)
-* 🤙🏾  Contact me at [htlfuerst@gmail.com](mailto:htlfuerst@gmail.com)
-* 🪼​  Currently I'm learning ​Backend​ and Docker 🐳.
-* 🌌​  Three JS made me understand the importance of performance.
+* 🦈  Check out my portfolio at [www.henry-dev.com](http://henry-dev.com) (it's unique I was told)
+* 🤙🏾  Send me a love letter or job offer: [htlfuerst@gmail.com](mailto:htlfuerst@gmail.com)
+* 🪼​  I prefer to write native CSS - clean code and folder structure makes me happy.
+* 🌌​  My code isn't perfect, but I'm working on it until it is.
 * 🥥  Fun fact: I'm disturbingly good at toilet paper origami.
 
 ### Skills
