@@ -5,7 +5,7 @@
 Frontend Developer
 ------------------
 
-My main focus is on frontend development with React, Three.js and HTML/CSS. I enjoy working with Three.js because it provides a unique opportunity to solve problems, enhancing the experience beyond simply creating impressive interfaces. I also enjoy incorporating backend technologies into my projects, such as Node.js, Docker, and Supabase.  
+My main focus is on frontend development with React, Three.js and HTML/CSS. I enjoy working with Three.js because it provides a unique opportunity to solve problems, enhancing the experience beyond simply creating impressive interfaces.
 
 * 🦈  Check out my portfolio at [www.henry-dev.com](http://henry-dev.com) (it's unique I was told)
 * 🤙🏾  Send me a love letter or job offer: [htlfuerst@gmail.com](mailto:htlfuerst@gmail.com)
