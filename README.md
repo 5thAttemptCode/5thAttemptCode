@@ -5,11 +5,11 @@
 Frontend Developer
 ------------------
 
-My main focus is on frontend development with React, Three.js and HTML/CSS. I enjoy working with Three.js because it provides a unique opportunity to solve problems, enhancing the experience beyond simply creating impressive interfaces.
+My main focus is on frontend development with React and Three.js. I enjoy working with Three.js because it provides a unique opportunity to solve problems, enhancing the experience beyond simply creating impressive interfaces.
 
 * 🦈  Check out my portfolio at [www.henry-dev.com](http://henry-dev.com) (it's unique I was told)
 * 🤙🏾  Send me a love letter or job offer: [htlfuerst@gmail.com](mailto:htlfuerst@gmail.com)
-* 🪼​  I prefer to write native CSS - clean code and folder structure makes me happy.
+* 🪼​  I prefer to write native CSS.
 * 🌌​  My code isn't perfect, but I'm working on it until it is.
 * 🥥  Fun fact: I'm disturbingly good at toilet paper origami.
 
