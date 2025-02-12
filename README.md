@@ -1,4 +1,4 @@
-# Talofa, my name is Henry ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# I am Henry
 
 ========================================================================================
 
@@ -7,10 +7,8 @@ Frontend Developer
 
 My main focus is on frontend development with React and Three.js. I enjoy working with Three.js because it provides a unique opportunity to solve problems, enhancing the experience beyond simply creating impressive interfaces.
 
-* 🦈  Check out my portfolio at [www.henry-dev.com](http://henry-dev.com) (it's unique I was told)
-* 🤙🏾  Send me a love letter or job offer: [htlfuerst@gmail.com](mailto:htlfuerst@gmail.com)
+* 🦈  Check out my portfolio at [www.henry-dev.com](http://henry-dev.com)
 * 🪼​  I prefer to write native CSS.
-* 🌌​  My code isn't perfect, but I'm working on it until it is.
 * 🥥  Fun fact: I'm disturbingly good at toilet paper origami.
 
 ### Tech Stack
@@ -25,11 +23,3 @@ My main focus is on frontend development with React and Three.js. I enjoy workin
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="20" height="20" alt="Supabase" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="20" height="20" alt="Firebase" /></a>
 </p>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/5thAttemptCode"><img src="https://github-readme-stats.vercel.app/api?username=5thAttemptCode&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="5thAttemptCode's GitHub stats" /></a>
-
-<a href="http://www.github.com/5thAttemptCode"><img src="https://github-readme-streak-stats.herokuapp.com/?user=5thAttemptCode&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/5thAttemptCode" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5thAttemptCode&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
