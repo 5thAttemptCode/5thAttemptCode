@@ -7,7 +7,7 @@ Frontend Developer
 
 My main focus is on frontend development with React and Three.js. I enjoy working with Three.js because it provides a unique opportunity to solve problems, enhancing the experience beyond simply creating impressive interfaces.
 
-* 🦈  Check out my portfolio at [www.henry-dev.com](http://henry-dev.com)
+* 🦈  My portfolio: [www.henry-dev.com](http://henry-dev.com)
 * 🪼​  I prefer to write native CSS.
 * 🥥  Fun fact: I'm disturbingly good at toilet paper origami.
 
